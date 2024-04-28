@@ -1,4 +1,4 @@
-**Exploratory Data Analysis with Automated Detection of Correlation Bias (Simpson's Paradox)**
+**On Demand Detections and Explanations of Correlation Pattern Bias in EDA Workflows**
 
 **Overview**
 This repository contains the implementation of a novel approach to enhancing Exploratory Data Analysis (EDA) and feature selection processes within the Data Science pipeline. 
